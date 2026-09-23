@@ -11,6 +11,10 @@
 
 </div>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JesusCastillo2026/JesusCastillo2026/main/assets/rainbow-wave.svg" alt="Rainbow wave" width="100%">
+</p>
+
 ## Sobre mí
 
 Soy estudiante de Diseño y Desarrollo de Software en Tecsup. Me interesa convertir ideas en soluciones funcionales, claras y fáciles de usar. Actualmente estoy fortaleciendo mis habilidades en desarrollo Android con Kotlin y Jetpack Compose, además de trabajar con APIs y aplicaciones empresariales.
@@ -35,6 +39,28 @@ Soy estudiante de Diseño y Desarrollo de Software en Tecsup. Me interesa conver
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 </p>
+
+## Mi actividad en GitHub
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JesusCastillo2026&show_icons=true&hide_border=true&theme=transparent&title_color=6C5CE7&icon_color=00B4D8&text_color=586069&ring_color=FF4D6D" alt="Estadísticas de GitHub">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusCastillo2026&layout=compact&hide_border=true&theme=transparent&title_color=6C5CE7&text_color=586069" alt="Lenguajes más usados">
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=JesusCastillo2026&hide_border=true&background=FFFFFF00&ring=FF4D6D&fire=FF9F1C&currStreakLabel=6C5CE7&sideLabels=586069&dates=8A94A6" alt="Racha de contribuciones">
+</div>
+
+Estas estadísticas se actualizan automáticamente a partir de la actividad pública del perfil. La distribución de lenguajes muestra qué tecnologías aparecen con mayor frecuencia en mis repositorios.
+
+## Mi stack en acción
+
+| Área | Herramientas que estoy usando |
+|---|---|
+| Aplicaciones móviles | Android Studio, Kotlin y Jetpack Compose |
+| APIs y backend | Java, Spring Boot, Python y SQL |
+| Flujo de trabajo | Git, GitHub, pruebas y documentación |
+| Diseño de producto | Interfaces claras, estados, validaciones y navegación |
 
 ## Proyectos destacados
 
