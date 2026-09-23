@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 110" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0" stop-color="#ff4d6d"/>
+      <stop offset=".25" stop-color="#ff9f1c"/>
+      <stop offset=".5" stop-color="#06d6a0"/>
+      <stop offset=".75" stop-color="#00b4d8"/>
+      <stop offset="1" stop-color="#9b5de5"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0;-1 0" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 60 C130 10 220 10 340 60 S560 110 690 60 S920 10 1200 60" fill="none" stroke="url(#line)" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="120" cy="36" r="4" fill="#ff4d6d"><animate attributeName="opacity" values=".25;1;.25" dur="2s" repeatCount="indefinite"/></circle>
+  <circle cx="580" cy="84" r="4" fill="#06d6a0"><animate attributeName="opacity" values="1;.25;1" dur="2.6s" repeatCount="indefinite"/></circle>
+  <circle cx="1020" cy="35" r="4" fill="#9b5de5"><animate attributeName="opacity" values=".25;1;.25" dur="2.3s" repeatCount="indefinite"/></circle>
+</svg>

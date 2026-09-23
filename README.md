@@ -43,15 +43,20 @@ Soy estudiante de Diseño y Desarrollo de Software en Tecsup. Me interesa conver
 ## Mi actividad en GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JesusCastillo2026&show_icons=true&hide_border=true&theme=transparent&title_color=6C5CE7&icon_color=00B4D8&text_color=586069&ring_color=FF4D6D" alt="Estadísticas de GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusCastillo2026&layout=compact&hide_border=true&theme=transparent&title_color=6C5CE7&text_color=586069" alt="Lenguajes más usados">
+  <img src="https://img.shields.io/badge/Repositorios_públicos-5-6C5CE7?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios públicos">
+  <img src="https://img.shields.io/github/last-commit/JesusCastillo2026/Programacion-En-Moviles?style=for-the-badge&label=Actividad%20reciente&color=00B4D8" alt="Actividad reciente">
+  <img src="https://img.shields.io/github/languages/top/JesusCastillo2026/Programacion-En-Moviles?style=for-the-badge&label=Lenguaje%20principal&color=7F52FF" alt="Lenguaje principal">
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=JesusCastillo2026&hide_border=true&background=FFFFFF00&ring=FF4D6D&fire=FF9F1C&currStreakLabel=6C5CE7&sideLabels=586069&dates=8A94A6" alt="Racha de contribuciones">
+  <a href="https://github.com/JesusCastillo2026?tab=repositories"><img src="https://ghchart.rshah.org/6C5CE7/JesusCastillo2026" alt="Calendario de contribuciones de GitHub" width="90%"></a>
 </div>
 
-Estas estadísticas se actualizan automáticamente a partir de la actividad pública del perfil. La distribución de lenguajes muestra qué tecnologías aparecen con mayor frecuencia en mis repositorios.
+Las tarjetas anteriores usan servicios ligeros y enlaces directos a GitHub para evitar imágenes estadísticas rotas. Los datos se actualizan a partir de mis repositorios públicos.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JesusCastillo2026/JesusCastillo2026/main/assets/neon-divider.svg" alt="Decoración animada" width="100%">
+</p>
 
 ## Mi stack en acción
 
